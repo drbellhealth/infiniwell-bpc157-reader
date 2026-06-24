@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://drbellhealth.github.io/infiniwell-bpc157-reader/sitemap.xml
